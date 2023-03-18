@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "moment": "^2.29.4"
+  },
+  "name": "nodejs-study",
+  "description": "nodejs学习记录\r - fs模块的使用\r - http模块的使用",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
